@@ -3,11 +3,8 @@
 	"version": "1.0.2",
 	"description": "A hyper theme based on named CSS colors.",
 	"main": "index.js",
-	"repository": "https://github.com/simonhaenisch/hyper-named-css-colors",
-	"keywords": [
-		"hyper",
-		"hyper-theme"
-	],
+	"repository": "simonhaenisch/hyper-named-css-colors",
+	"keywords": ["hyper", "hyper-theme"],
 	"author": "Simon Haenisch (https://simonhaenisch.com)",
 	"license": "Unlicense"
 }
