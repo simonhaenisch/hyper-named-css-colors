@@ -9,5 +9,9 @@
 		"hyper-theme"
 	],
 	"author": "Simon Haenisch (https://simonhaenisch.com)",
-	"license": "Unlicense"
+	"license": "Unlicense",
+	"devDependencies": {
+		"tap-dot": "1.0.5",
+		"tape": "4.9.0"
+	}
 }
