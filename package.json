@@ -3,6 +3,9 @@
 	"version": "1.0.5",
 	"description": "A hyper theme based on named CSS colors.",
 	"main": "index.js",
+	"scripts": {
+		"test": "node test | tap-dot"
+	},
 	"repository": "simonhaenisch/hyper-named-css-colors",
 	"keywords": [
 		"hyper",
