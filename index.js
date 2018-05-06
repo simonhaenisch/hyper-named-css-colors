@@ -2,7 +2,7 @@ exports.decorateConfig = config => {
 	return Object.assign({}, config, {
 		borderColor: config.borderColor || 'tomato',
 		cursorColor: config.cursorColor || 'tomato',
-		backgroundColor: '#252120',
+		backgroundColor: config.backgroundColor || '#252120',
 		foregroundColor: 'whitesmoke',
 		selectionColor: 'rgba(245, 245, 245, 0.3)', // transparent smokewhite
 		colors: {
