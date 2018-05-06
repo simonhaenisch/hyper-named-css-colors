@@ -6,6 +6,8 @@
 
 A Hyper theme based on named CSS colors (`black`, `tomato`, `mediumseagreen`, `gold`, `steelblue`, `mediumvioletred`, `mediumturquoise`, `whitesmoke`, `dimgray`, `salmon`, `mediumspringgreen`, `khaki`, `lightskyblue`, `hotpink`, `cyan`, `white`).
 
+User settings for `borderColor` and `cursorColor` take precedence (in case you don't like `tomato`).
+
 ## Installation
 
 ```sh
