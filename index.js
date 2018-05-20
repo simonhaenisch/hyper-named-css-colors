@@ -4,7 +4,7 @@ exports.decorateConfig = config => {
 		cursorColor: config.cursorColor || 'tomato',
 		backgroundColor: config.backgroundColor || '#252120',
 		foregroundColor: 'whitesmoke',
-		selectionColor: 'rgba(245, 245, 245, 0.3)', // transparent smokewhite
+		selectionColor: 'rgba(105, 105, 105, 0.5)', // #69696980
 		colors: {
 			black: 'black',
 			red: 'tomato',
