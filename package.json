@@ -1,6 +1,6 @@
 {
 	"name": "hyper-named-css-colors",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"description": "A hyper theme based on named CSS colors.",
 	"main": "index.js",
 	"scripts": {
