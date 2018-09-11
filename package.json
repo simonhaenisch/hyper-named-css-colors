@@ -21,7 +21,7 @@
 		"useTabs": true
 	},
 	"devDependencies": {
-		"tap-dot": "1.0.5",
-		"tape": "4.9.0"
+		"tap-dot": "2.0.0",
+		"tape": "4.9.1"
 	}
 }
