@@ -5,8 +5,8 @@ test('default config has correct border and cursor color', t => {
 	const config = decorateConfig({});
 
 	t.plan(3);
-	t.equal(config.backgroundColor, '#252120');
-	t.equal(config.borderColor, 'tomato');
+	t.equal(config.backgroundColor, '#1E1E1E');
+	t.equal(config.borderColor, 'transparent');
 	t.equal(config.cursorColor, 'tomato');
 });
 
