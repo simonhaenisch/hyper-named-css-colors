@@ -13,7 +13,7 @@
 		"hyper-theme"
 	],
 	"author": "Simon Haenisch (https://simonhaenisch.com)",
-	"license": "Unlicense",
+	"license": "MIT",
 	"prettier": {
 		"printWidth": 120,
 		"singleQuote": true,
