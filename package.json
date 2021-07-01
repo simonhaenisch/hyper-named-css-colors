@@ -4,7 +4,7 @@
 	"description": "A hyper theme based on named CSS colors.",
 	"main": "index.js",
 	"scripts": {
-		"test": "node test | tap-dot"
+		"test": "node test | tap-min"
 	},
 	"repository": "simonhaenisch/hyper-named-css-colors",
 	"homepage": "https://github.com/simonhaenisch/hyper-named-css-colors#readme",
@@ -21,7 +21,7 @@
 		"useTabs": true
 	},
 	"devDependencies": {
-		"tap-dot": "2.0.0",
-		"tape": "4.9.1"
+		"tap-min": "2.0.0",
+		"tape": "5.2.2"
 	}
 }
